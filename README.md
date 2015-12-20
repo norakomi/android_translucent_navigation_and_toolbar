@@ -1,0 +1,2 @@
+# android_translucent_navigation_and_toolbar
+Translucent navigation and toolbar
